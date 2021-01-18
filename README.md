@@ -1,1 +1,1 @@
-# advanced project course
+# Advanced programming lesson project
